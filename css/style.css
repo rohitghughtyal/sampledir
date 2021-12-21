@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(161, 237, 240, 0.904);
+}
+.class{
+   background-color:rgb(224, 153, 153);
+}
+
+
+.class2{
+    background-color: rgb(147, 178, 235);
+    border-style: solid ;
+    
+    border-color: rgb(80, 133, 231) ;
+   border-radius: 3px;
+   border-width: 3px;
+   text-align: center;
+   margin-left : 500px ;
+   margin-right : 500px ;
+    
+}
+.parent{
+    background-color: rosybrown;
+}
+.inlist{
+    background-color: slateblue;
+}
